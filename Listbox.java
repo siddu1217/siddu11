@@ -6,7 +6,6 @@ import org.openqa.selenium.support.ui.Select;
 //import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.By;
 import org.testng.annotations.*;
-//import org.openqa.selenium.support.ui.*;
 
 public class Listbox
 {
